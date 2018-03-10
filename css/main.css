@@ -1,0 +1,12 @@
+nav {
+	background-color: tomato;
+	color: #FFF;
+}
+
+.navbar-light .navbar-nav .nav-item > a.nav-link, .navbar-light .navbar-brand {
+	color: #FFF;
+}
+
+.row {
+	height: 300px;
+}
